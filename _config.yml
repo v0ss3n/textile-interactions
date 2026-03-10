@@ -1,0 +1,18 @@
+# Example Site settings
+
+
+header_pages:
+ - index.md
+ - references.md
+#  - about.md
+
+footer: '<a href="https://linktr.ee/michellevossen">more links</a>'
+
+style: dark # dark (default) or light
+# listen_for_clients_preferred_style: true # true or false (default)
+
+plugins:
+  - jekyll-seo-tag
+
+# Site config
+# baseurl: "/textile-interactions"
