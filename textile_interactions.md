@@ -4,55 +4,6 @@ layout: home
 permalink: /textile_interactions
 ---
 
-# (Textile) interaction references
-
-### Ventriloquist Ontology
-Afroditi Psarra, cyber and techno feminism, the body as an interface
-
->The project ‘Ventriloquist Ontology’ explores the limits of control and points of hybridization between the human and the machine through the relationship of a performer and a wearable entity. This ventriloquist modular soft entity speaks through text generated using a GPT-2 language model, trained on a dataset of texts around biopolitics, algo-governance, the surveillanced body, and queer theory.
-
-<https://afroditipsarra.com/work/ventriloquist-ontology>
-
-<div class="row-3" markdown="1">
-![](https://images.squarespace-cdn.com/content/v1/603e5c69e5ece05692d9e43b/a7a0fb5b-5125-4f41-bdc9-819c7b57ee72/L1000393.JPG?format=2500w)
-</div>
-
-She actually trains a language model herself which I think holds more value
-
-## Visualising invisible technologies
-### Kirigami Antennas (Afroditi Psarra)
-
->With the progression of technology as integrated into daily life, physical tech has become increasingly embedded or hidden from the user’s view. Because of this design change, many of the aesthetics that previously defined everyday technology have disappeared from the public eye. Our ability to connect the capability of technology with the spacial world it utilizes has disappeared with it. This notion is especially true for antenna design. An object that was once visible on cars, houses, and phones is now so embedded in the devices that use it that its technology is essentially formless. Kirigami Antennas is a research exploration centering on e-textile meta-materials, designing antennas that are cognizant of their use and relation to space. This collection of antennas are not embedded nor hidden. They instead borrow from the art of Kirigami to re-insert themselves into the 3D space from which they receive their signals. Through experimentation with Kirigami antenna shapes, we are able to design freestanding lace antennas that effectively received electromagnetic signals at a wide range of frequencies, picking up AM, FM, and HAM radio, along with other data transmissions. Kirigami Antennas provides a space for experimentation with antennas as objects that help us reach and search through space.
-
-![](https://images.squarespace-cdn.com/content/v1/603e5c69e5ece05692d9e43b/b63b14bf-f2e5-46dc-92fe-17ebe17b25ac/combined_kirigami+antennas+sRGB.jpg?format=2500w)
-
-<https://afroditipsarra.com/work/kirigami-antennas>
-
-#### Talking Textiles
-
->Talking Textiles is an e-textile project that combines touch sensors, haptic surfaces and calm-inducing sounds, to create interactive interfaces that respond to touch with sound in real time. Traditionally valued for their tactile comfort and sound-absorbing qualities, textiles have an overlooked sonic dimension worth revealing, and are here examined as multisensory materials. The project is grounded in the principle of “deep listening”, a practice that turns passive hearing into deliberate, focused attention to sound stimuli. By amplifying ordinary acoustic textures—the friction of fibers, the rustle of folds, the soft manipulation of textiles—it brings awareness to material sounds usually dismissed as background noise. 
-
-<div class="row-2" markdown="1">
-![](https://kh-berlin.de/typo3temp/assets/_processed_/4/d/csm_nicoleschoenherr-weisenseekunsthochschuleberlin-05_156b153041.jpeg)
-![](https://kh-berlin.de/typo3temp/assets/_processed_/0/d/csm_nicoleschoenherr-weisenseekunsthochschuleberlin-02_6dd4629792.jpeg)
-</div>
-
-## Odd Interactions
-
-Sara Mlakar:
-
->Odd interactions is not a just another design strategy, but rather a way of thinking, a goal to pursue, and an alternative vision of reality. The unique contribution of Odd Interactions lies in expanding interaction beyond touchscreen gestures in order to: 1) explore, reflect on, and discuss values other than efficiency and ease of use, 2) break the sameness of current technological interfaces, and 3) make better use of the whole body and its abilities. 
-
-Tongue interaction; enhancing the senses (speculative):
-
-<div class="row-2" markdown="1">
-![](https://images.squarespace-cdn.com/content/v1/603a6a2aa0caae5783b9acfe/56be5b59-34cc-45e1-9be7-31e2c98411fd/Participant_2.jpg?format=1500w)
-![](https://images.squarespace-cdn.com/content/v1/603a6a2aa0caae5783b9acfe/aeda66d0-97e3-4f68-8357-03f1ddb98bff/cover_small_20220906_150903.jpg)
-</div>
-
-
----
-
 ## Textile interactions in a day
 
 Textile ambient interactions starting at 00:00 3 March - 00:00 4 March
@@ -102,6 +53,24 @@ From this, the textile artifacts to start with are:
 - Coaster
 - Curtain
 - Lamp shade
+
+<div class="row-3" markdown="1">
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fcarpet-png-2.png&f=1&nofb=1&ipt=c87b24d4d06cca2ab6e9de76fa7430facfeebe5000eca32935d77f73df17be4b)
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngarts.com%2Ffiles%2F12%2FCozy-Blanket-Transparent-Image.png&f=1&nofb=1&ipt=4e88b83853a64a401dc704806c3c4c4179ba3d0da3cc72a854b3fe4218e34572)
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2%2FPillow-PNG-Image-File.png&f=1&nofb=1&ipt=7f6a42400bfe841a46a4cedb1f3e726ee98af484805dea6389d963b85ff68cd8)
+</div>
+
+<div class="row-3" markdown="1">
+![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F04%2FChair-Transparent.png&f=1&nofb=1&ipt=3a643dbe33928ce50835b9a83709216f955568716e8fb26e95e8de808e402752)
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Ftowel%2Ftowel_PNG2.png&f=1&nofb=1&ipt=3fa6be53a8aa4ad11a6e177d54b92a193a64e60bc9b0d9ae00fad1dc64390464)
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-vector%2F20231014%2Fourmid%2Fpngtree-placemats-for-food-isolated-png-image_10181524.png&f=1&nofb=1&ipt=4a5016b7b0ef09c1d34977f283987605d2a302fb2c14fdc6db64185e05d39057)
+</div>
+
+<div class="row-3" markdown="1">
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwovenkoncepts.com.au%2Fwp-content%2Fuploads%2F2020%2F11%2FC2.1.png&f=1&nofb=1&ipt=c7a972e81fc97a9bdecf8fa211f8ae81b057e621dff4d83c19322884f4e261c4)
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngplay.com%2Fwp-content%2Fuploads%2F2%2FWhite-Curtains-Transparent-PNG.png&f=1&nofb=1&ipt=1a0397afc072e52b924e1920d6e6041a4b34ec1ff2116b6beb378ee30c907d5e)
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngplay.com%2Fwp-content%2Fuploads%2F2%2FLamp-PNG-Clipart-Background.png&f=1&nofb=1&ipt=46688c60742648f7e0d5bed9a0edddc47f72c3280febb7aa9162e4988bab8626)
+</div>
 
 Other potential textile artifacts:
 

@@ -6,13 +6,14 @@ permalink: /references
 
 # References
 
-- [Critical Design examples]({{ site.baseurl }}/critical_design_examples.html)
+<!-- - [Critical Design examples]({{ site.baseurl }}/critical_design_examples.html)
 - [Textile Interaction examples]({{ site.baseurl }}/textile_interactions.html)
 - [Smart home representation in Science Fiction]({{ site.baseurl }}/smart_home_in_science_fiction.html)
 
----
+--- -->
 
 ## Visual references - physicalising digital space
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v2Rv9zX3K24?si=QEou7uBmIfug3wYa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div class="row-4" markdown="1">
 ![](https://v0ss3n.github.io/experimental-website/img/essay/ghost00.png)
@@ -28,6 +29,7 @@ permalink: /references
 </div>
 
 ![](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMTg5OTg3L29yaWdpbmFsX2ZiYjdiMGM3MDlhZWNhMmIwMjMxNGNlMDJmODc1YjljLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjQwMCwiaGVpZ2h0IjoyNDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19)
+![](https://i.pinimg.com/736x/02/5d/2c/025d2cda2404895c92b96071f7943f15.jpg)
 
 Integration/disintegration/cable soup/satellite as lichen
 
@@ -38,8 +40,13 @@ Integration/disintegration/cable soup/satellite as lichen
 ![](https://d2w9rnfcy7mm78.cloudfront.net/308119/original_8fdec00285dffa84e102310b10e2fedb.jpg?1416942033?bc=1)
 </div>
 
-<div class="row-3" markdown="1">
+<div class="row-4" markdown="1">
 ![](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI2ODk2Mjg1L29yaWdpbmFsXzkxMmJiOGJlYzM1NmFmYmI1MmIxYWRhZDVmY2U1Y2IyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjQwMCwiaGVpZ2h0IjoyNDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19)
 ![](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNDcyMDYvb3JpZ2luYWxfZTI4MzkzYzJmMGEzNmY4MzdlMzNiNmQ4YjZlZmEyNmYuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyNDAwLCJoZWlnaHQiOjI0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=)
 ![](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNTE2MDcvb3JpZ2luYWxfYzdmM2UxNzllMjdmYTk0NDBkZjVhYzk0ZTBhYjY2OTEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyNDAwLCJoZWlnaHQiOjI0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=)
+![](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNjkwMTQyL29yaWdpbmFsX2IzYzQ2NTVkYmQyNTA3NDBhMmM2ZDlmMjhjYWE4NjYwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjQwMCwiaGVpZ2h0IjoyNDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19)
 </div>
+
+Fountains by Žilvinas Kempinas
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fartlogic-res.cloudinary.com%2Fw_2400%2Ch_2400%2Cc_limit%2Cf_auto%2Cfl_lossy%2Cq_auto%2Fartlogicstorage%2Fvartai%2Fimages%2Fview%2F559d4829261c9c19024f4fb69f51ab86eca59ff0%2Fgalerijavartai-ilvinas-kempinas-fountains-2013.jpg&f=1&nofb=1&ipt=15bb6b74ccad24e8d4aacdf892438f169b522f3af8dc8d6931fec7c2d1fdf1d0)

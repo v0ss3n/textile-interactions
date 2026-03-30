@@ -16,3 +16,7 @@ plugins:
 
 # Site config
 # baseurl: "/textile-interactions"
+
+collections:
+  articles:
+    output: true # to make jekyll generate html pages

@@ -6,14 +6,14 @@ permalink: /smart_home_in_science_fiction
 
 # The representation of the smart home in Science Fiction
 
-Films
+<!-- Films
 - Barbarella (1968)
 - Brazil (1985)
 - THX 1138 (1971)
 - Metropolis (1927)
 
 Series
-- Black Mirror
+- Black Mirror -->
 
 ### Blade Runner (1982)
 Dark and gritty, feels more old-fashioned and dystopian, not very shiny scifi
