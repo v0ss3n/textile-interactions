@@ -4,16 +4,7 @@ layout: home
 permalink: /smart_home_in_science_fiction
 ---
 
-# The representation of the smart home in Science Fiction
-
-<!-- Films
-- Barbarella (1968)
-- Brazil (1985)
-- THX 1138 (1971)
-- Metropolis (1927)
-
-Series
-- Black Mirror -->
+# The representation of the smart home in Science Fiction film
 
 ### Blade Runner (1982)
 Dark and gritty, feels more old-fashioned and dystopian, not very shiny scifi
@@ -22,6 +13,8 @@ Dark and gritty, feels more old-fashioned and dystopian, not very shiny scifi
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2o16rUQl0p1_jm-6AJ9hKIIMqB3FWIc5duH9Nz1qioCU-bxufVvvNE8a5Ct1tUYxew7k-27Tsn7bLoMycycfrJra_Sp_PpbAvEHR3iwvASYql8wxCkDqH4POpZI12ZszYdGbS/s640/Bladerunner+Interiors+0007.jpg)
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7OoPbuZE2TQL1aE6q8CUCYsStsAq2tvrzJP-O5TFuV_F8cx4cRAlHS1EPsaVqvbPbZsGMPE5PPZTKAqyjuUh1Y4RjQVi46CkliJY09GkRP08eLHGxgmaAYdfu3lY-BSOCx7ai/s640/Bladerunner+Interiors+0020.jpg)
 </div>
+
+---
 
 ### 15 Million Merits (Black Mirror)
 
@@ -156,6 +149,8 @@ Dark and gritty, feels more old-fashioned and dystopian, not very shiny scifi
 ![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-02 212611.jpg)
 </div>
 
+---
+
 ## Forbidden Planet (1956)
 - Spaceship
 - House on a far away planet with:
@@ -269,7 +264,88 @@ Dark and gritty, feels more old-fashioned and dystopian, not very shiny scifi
 ![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-03 214248.jpg)
 </div>
 
-## The Jetsons (1962-63)
+---
+
+## Metropolis (1927)
+<div class="row-4" markdown="1">
+![]({{ site.baseurl }}/assets/images/film/IMG_0285.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0288.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0289.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0291.jpg) 
+</div>
+
+<div class="row-4" markdown="1">
+![]({{ site.baseurl }}/assets/images/film/IMG_0295.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0296.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0298.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0299.jpg) 
+</div>
+
+<div class="row-4" markdown="1">
+![]({{ site.baseurl }}/assets/images/film/IMG_0300.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0303.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0304.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0306.jpg) 
+</div>
+
+<div class="row-4" markdown="1">
+![]({{ site.baseurl }}/assets/images/film/IMG_0312.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0313.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0314.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0316.jpg) 
+</div>
+
+<div class="row-4" markdown="1">
+![]({{ site.baseurl }}/assets/images/film/IMG_0318.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0319.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0320.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0321.jpg) 
+</div>
+
+## The Time Machine (1960)
+
+<div class="row-3" markdown="1">
+![]({{ site.baseurl }}/assets/images/film/IMG_0327.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0329.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0330.jpg) 
+</div>
+
+<div class="row-3" markdown="1">
+![]({{ site.baseurl }}/assets/images/film/IMG_0331.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0334.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0335.jpg) 
+</div>
+
+<div class="row-3" markdown="1">
+![]({{ site.baseurl }}/assets/images/film/IMG_0337.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0342.jpg) 
+![]({{ site.baseurl }}/assets/images/film/IMG_0345.jpg) 
+</div>
+
+## Mon Oncle (Tati, 1958)
+<div class="row-4" markdown="1">
+![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-12 154643.jpg) 
+![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-12 155048.jpg) 
+![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-12 160411.jpg) 
+![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-12 160728.jpg) 
+</div>
+
+<div class="row-4" markdown="1">
+![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-12 161148.jpg) 
+![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-12 161207.jpg) 
+![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-12 162856.jpg) 
+![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-12 at 15-45-28.jpg) 
+</div>
+
+<div class="row-3" markdown="1">
+![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-12 162952.jpg) 
+![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-12 163011.jpg) 
+![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-12 163543.jpg)
+</div>
+
+---
+
+## The Jetsons (1962-63) (did not watch)
 Beds:
 
 <div class="row-3" markdown="1">
@@ -284,6 +360,8 @@ Beds:
 ![](https://static.wikia.nocookie.net/thejetsons/images/1/1d/George_Jetson_searching_for_dictionaire.png/revision/latest/scale-to-width-down/1000?cb=20200803092027)
 </div>
 
+---
+
 ## Brazil 
 <div class="row-2" markdown="1">
 ![Flattening of food experience](https://www.giantfreakinrobot.com/wp-content/uploads/2023/05/brazil-terry-gilliam-food-green-mush.jpg)
@@ -292,10 +370,10 @@ Beds:
 
 <div class="row-2" markdown="1">
 ![](https://static1.1.sqspcdn.com/static/f/709071/27674540/1504486514057/brazil-frozen.png?token=QlNGFOBlJnzSYxCctYzD7QiPRKA%3D)
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.evanerichards.com%2Fwp-content%2Fgallery%2Fbrazil%2Fbrazil-040.jpg&f=1&nofb=1&ipt=7f71cf93fba88a9eea24dede8142ccb0a97c5819189ba8eddc71a4fb5c8ed0b4)
+![](https://cdni.fancaps.net/file/fancaps-movieimages/3253377.jpg)
 </div>
 
-## Modern Times
+## Modern Times (1936)
 <div class="row-4" markdown="1">
 ![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-02-18 200246.jpg)
 ![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-02-18 200305.jpg)
@@ -303,6 +381,7 @@ Beds:
 ![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-02-18 200744.jpg)
 </div>
 
+---
 
 ## The Fifth Element (1997)
 
@@ -334,7 +413,9 @@ Beds:
 ![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-05 222320.jpg)
 </div>
 
-## THX 1138
+---
+
+## THX 1138 (1971)
 <div class="row-2" markdown="1">
 ![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-08 213439.jpg)
 ![]({{ site.baseurl }}/assets/images/film/Screenshot 2026-03-08 215458.jpg)
